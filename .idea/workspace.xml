@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdabc6fd-c42c-415c-93e8-0a619d59fa3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data Structure &amp; Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_list/Linked_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop-Person/Oop-Person.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/HomeWork_NodeString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Student_Object/LinkedList_Student_Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T3H/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T3H/T3H.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tDNhKwCjoVNUW06jNElJlixzLo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdabc6fd-c42c-415c-93e8-0a619d59fa3e" name="Default Changelist" comment="" />
+      <created>1622299820895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622299820895</updated>
+      <workItem from="1622299824004" duration="135000" />
+      <workItem from="1623288618107" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+//        public static void main(String[] args) {
+
+//        17/05 BÀI TẬP VỀ MẢNG
+
+                //Bai 1 tìm max
+//        System.out.print("Nhap so phan tu muon nhap: ");
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int [] arr = new int[n];
+//        for (int i = 0; i < n; i++){
+//            arr[i] = sc.nextInt();
+//        }
+//        int max = arr[0];
+//        for (int i = 0; i < n; i++){
+//            if (arr[i] > max){
+//                max = arr[i];
+//            }
+//        }
+//        System.out.print("Max la: " + max);
+
+                //Bai 2 Tổng số đầu và số cuối
+//        System.out.print("Nhap so phan tu muon nhap: ");
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int [] arr = new int[n];
+//
+//        for (int i = 0; i < n; i++){
+//            arr[i] = sc.nextInt();
+//        }
+//        System.out.println("So dau la: " + arr[0] + arr[n-1]);
+
+            //Bai 3 in ra số chẵn
+//        System.out.print("Nhap so phan tu muon nhap: ");
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int [] arr = new int[n];
+//
+//        for (int i = 0; i < n; i++){
+//            arr[i] = sc.nextInt();
+//        }
+//        for (int i = 0; i < n; i++) {
+//            if (arr[i] % 2 == 0){
+//                System.out.print(arr[i] + " ");
+//            }
+//        }
+
+
+//               //Bài 4: Tổng các số lẻ
+//        System.out.print("Nhập số phần tử muốn nhập: ");
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int [] arr = new int[n];
+//
+//        for (int i = 0; i < n; i++){
+//            System.out.print("Nhập số phần tử thứ [" + i +"]: ");
+//            arr[i] = sc.nextInt();
+//        }
+//        int sum = 0;
+//        for (int i : arr){
+//            if (n % 2 != 0){
+//                sum = sum + i;
+//            }
+//        }
+//        System.out.println("==========================");
+//        System.out.print("Tồng của các số là: " + sum);
+
+
+//            //Bài 7 Tìm chuỗi lớn hơn 3
+//        System.out.print("Nhập số phần tử muốn nhập: ");
+//        Scanner sc = new Scanner(System.in);
+//        //Đầu tiên là nhập n chuỗi phần tử
+//        int n = sc.nextInt();
+//        sc.next();
+//        String [] arr = new String[n];
+//
+//        //nhập các phần tử
+//        for (int i = 0; i < n; i++){
+//            arr[i] = sc.next();
+//        }
+//        //tìm chuỗi lớn hơn 3
+//        for (String s : arr) {
+//            if (s.length() > 3) {
+//                System.out.print("Chuỗi lớn hơn 3 là: " + s + " ");
+//            }
+//        }
+
+//    }

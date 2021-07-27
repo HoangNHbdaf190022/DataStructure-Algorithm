@@ -1,0 +1,19 @@
+giờ nhá Cho mảng coay vong có maxSize = 5
+--enqueue
+Khởi tạo hàng đợi rỗng -> first = last = -1
+để lấy vị trí
+(last + 1) % maxSize lấy dư
+vị trí tiếp theo
+(last + 1) % maxSize
+cứ thế
+hàng đợi sẽ đầy khi (last + 1) % maxSize = first
+
+--dequeue
+Vẫn theo công thức là 
+(first + 1)% maxSize lấy dư
+(-1+1) % 6 = 0
+(1+1) % 6 = 2
+(2+1) % 6 = 3
+(3+1) % 6 = 4
+(4+1) % 6 = 5
+(5+1) % 6 = 0

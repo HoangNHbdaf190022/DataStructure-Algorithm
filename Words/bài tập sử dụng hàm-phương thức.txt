@@ -1,0 +1,99 @@
+            /* BÀI TẬP NGÀY 13/05 SỬ DỤNG HÀM - PHƯƠNG THỨC */
+////Tính tổng các phần tử
+//            public static void main(String[] args) {
+//                Scanner sc = new Scanner(System.in);
+//                int n = sc.nextInt();
+//                int [] arr = new int[n];
+//
+//                for (int i = 0; i < n; i++){
+//                    arr[i] = sc.nextInt();
+//                }
+//                System.out.println(Summ(arr));
+//            }
+//            public static int Summ(int [] arr){
+//                int sum = 0;
+//                for (int j : arr) {
+//                    sum += j;
+//                }
+//                return sum;
+//            }
+// In ra số chuỗi lớn hơn 3
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//
+//        System.out.print("Nhập vào số chuỗi bạn muốn: ");
+//        int n = sc.nextInt();
+//        String[] arr = new String[n];
+//        System.out.println("Nhập các chuỗi:");
+//        for (int i = 0; i < n; i++) {
+//            arr[i] = sc.next();
+//        }
+//        show(arr);
+//    }
+//    public static void show(String[] arr) {
+////        Vòng lặp 'for' có thể thay thế bằng vòng lặp 'foreach'
+//        for (String s : arr) {
+//            if (s.length() > 3) {
+//                System.out.print(s + " ");
+//            }
+//        }
+//    }
+
+//            //Tìm Max
+//    public static void main(String[] args) {
+//    Scanner sc = new Scanner(System.in);
+//    //nhập
+//    System.out.print("Nhập a: ");
+//    int a = sc.nextInt();
+//    System.out.print("Nhập b: ");
+//    int b = sc.nextInt();
+//    System.out.print("Nhập c: ");
+//    int c = sc.nextInt();
+////in kết quả
+//    System.out.print(max(a, b, c));
+//}
+////hàm xử lí
+//    public static int max(int a, int b, int c){
+//        if(a > b && a > c){
+//            return a;
+//        }else if(b > c){
+//            return b;
+//        }else{
+//            return c;
+//    }
+////        Có thể được thay thế bằng lệnh gọi 'Math.max'
+////        else return Math.max(b, c);
+//    }
+
+
+            //Tính chu vi
+//    public static void main(String[] args) {
+//
+//        Scanner sc = new Scanner(System.in);
+//        double r = sc.nextDouble();
+//        System.out.print(chuvi(r));
+//    }
+//    public static double chuvi(double r){
+//        return 2 * r * 3.14;
+//    }
+
+//        //tìm max
+//        //khai báo
+
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("So phan tu Hoàng muon nhap la: ");
+//        int n = sc.nextInt();
+//        int[] array = new int[n];
+//        System.out.println("Xin moi nhap cac phan tu: ");
+//
+//        //cho giá trị max = array tại 0
+//        int max = array[0];
+//
+//        //vòng lặp
+//        for (int i = 0; i < n; i++){
+//            array[i] = sc.nextInt();
+//            if (array[i] > max){
+//                max = array[i];
+//            }
+//        }
+//        System.out.println("So lon nhat la: " + max);
