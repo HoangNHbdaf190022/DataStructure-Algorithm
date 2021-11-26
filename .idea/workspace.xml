@@ -2,22 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdabc6fd-c42c-415c-93e8-0a619d59fa3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data Structure &amp; Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_list/Linked_list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oop-Person/Oop-Person.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork_NodeString/HomeWork_NodeString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/out/production/SelectionSort/AA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/out/production/SelectionSort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/out/production/SelectionSort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/out/production/SelectionSort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/src/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/src/SelectionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LinkedList_Student_Object/LinkedList_Student_Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Linked_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/Linked_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked_list/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Queue/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_Array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_Array/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_Array/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_LinkedList/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SourcesCode/Stack_LinkedList/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../T3H/Desktop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../T3H/T3H.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/javaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/DI_IOC/QuanJean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/Lesson_3/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/com/company/DiemTB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaCore/src/com/company/xeMay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Tree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM1.DSA_NguyenHuuHoang.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASM1.DSA_NguyenHuuHoang.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked_list/out/production/Linked_list/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Linked_list/out/production/Linked_list/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4" beforeDir="false" afterPath="$PROJECT_DIR$/P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4/src/com/company/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4/src/com/company/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4/src/com/company/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/P4/src/com/company/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/out/production/Recursion/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/out/production/Stack_int/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/out/production/Stack_int/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/out/production/Stack_int/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/out/production/Stack_int/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Words/ASM2.Data Structure &amp;. Algorithm_NguyenHuuHoang.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Words/ASM2.Data Structure &amp;. Algorithm_NguyenHuuHoang.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Words/Words chuẩn để làm assignment nè.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Words/~$Baking.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +73,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tDNhKwCjoVNUW06jNElJlixzLo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,6 +98,8 @@
       <updated>1622299820895</updated>
       <workItem from="1622299824004" duration="135000" />
       <workItem from="1623288618107" duration="31000" />
+      <workItem from="1633432080525" duration="1366000" />
+      <workItem from="1634211818088" duration="169000" />
     </task>
     <servers />
   </component>

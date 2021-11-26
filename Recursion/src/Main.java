@@ -1,19 +1,8 @@
-package com.company;
-
 import java.util.Scanner;
 
 public class Main {
-//giới thiệu đệ quy
+//    bài 1
 
-    static int count = 0;
-    public static void print() {
-        count++;
-        if (count <= 5){
-            System.out.println("Hello world!");
-            print();
-        }
-
-    }
 //    giới thiệu về fibo-áp dụng về việc sinh sản của loài thỏ
     public static int fibo(int n){
         if (n > 2){
@@ -35,8 +24,6 @@ public class Main {
 
 //    main
     public static void main(String[] args) {
-//        giới thieu
-        print();
 
 //        fibo
         System.out.println("fibo: " + fibo(6)); // => sau 6 tháng = 8 cặp
@@ -47,5 +34,6 @@ public class Main {
         int n = sc.nextInt();
         System.out.print(giaithua(n));
     }
+
 }
 
